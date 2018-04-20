@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1041575843209",
+    "firebase_url": "https://smarttravel-final-year-project.firebaseio.com",
+    "project_id": "smarttravel-final-year-project",
+    "storage_bucket": "smarttravel-final-year-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041575843209:android:fba632d3a755bdc6",
+        "android_client_info": {
+          "package_name": "com.example.aisli.smarttravelproject1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041575843209-9cdt932pce0amsqpgfdsmrmjs0croc54.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aisli.smarttravelproject1",
+            "certificate_hash": "faa08b0ada34b90415c1ce988be3eb021122f6a3"
+          }
+        },
+        {
+          "client_id": "1041575843209-ik3qu2dpknvlctdl34dg7im94u17prkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOXq_hTcBJsDFWARS88r3XZKNeqaSe_6k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041575843209-ik3qu2dpknvlctdl34dg7im94u17prkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
